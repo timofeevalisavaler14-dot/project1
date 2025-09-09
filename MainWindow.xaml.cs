@@ -25,6 +25,7 @@ namespace групповой_проект
             InitializeComponent();
 			//Привет
             //поздравляю, ты научился работать в гитхабе
+            //kfdhgfgdhd
             
         }
     }
