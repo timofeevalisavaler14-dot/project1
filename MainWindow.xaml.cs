@@ -23,8 +23,7 @@ namespace групповой_проект
         public MainWindow()
         {
             InitializeComponent();
-            //изменение
-            int a = 5 + 3;
+         
             
         }
     }

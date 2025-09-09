@@ -6,8 +6,5 @@
         xmlns:local="clr-namespace:групповой_проект"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="152,84,0,0" VerticalAlignment="Top" Height="27" Width="88"/>
-
-    </Grid>
+    <Grid/>
 </Window>
