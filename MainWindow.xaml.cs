@@ -23,7 +23,7 @@ namespace групповой_проект
         public MainWindow()
         {
             InitializeComponent();
-         
+			//Привет
             
         }
     }
